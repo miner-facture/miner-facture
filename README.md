@@ -1,6 +1,12 @@
-⚡ Thiago DaMatta
+<p align="center">
+  <img src="https://i.ibb.co/bRQ05ZrY/Git.jpg" alt="Banner" width="100%" />
+</p>
 
-+ From code to circuits
+<h1 align="center">Thiago DaMatta</h1>
+
+<p align="center">
+  <strong>From code to circuits</strong>
+</p>
 
 🧠 About Me
 
