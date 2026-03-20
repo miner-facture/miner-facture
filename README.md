@@ -1,16 +1,58 @@
-## Hi there 👋
+⚡ Thiago DaMatta
 
-<!--
-**miner-facture/miner-facture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ From code to circuits
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build real systems — combining software, hardware and infrastructure.
+
+💻 Software Development
+🔌 Hardware & Embedded Systems
+🛠️ Prototyping & Electronics
+⛏️ Crypto Mining Infrastructure
+📡 Automation & Optimization
+
+⚙️ Tech Stack
+
+Languages
+
+Kotlin • Java • Python • C/C++
+
+**Systems**
+
+Linux • Networking • Servers
+
+**Hardware**
+
+Arduino • ESP32 • Custom Boards
+
+**Tools**
+
+KiCad • Git • Docker
+
+## 🚀 Projects
+
+📺 IPTV / Streaming Systems
+🧠 Automation & Smart Systems
+🔗 Crypto & Blockchain Tools
+🔧 Hardware Prototypes
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=miner-facture\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miner-facture\&layout=compact\&theme=dark)
+
+---
+
+## 🌐 Connect
+
+* 📍 Brazil
+* 🌐 (coloque seu site aqui)
+
+---
+
+## ⚡ Philosophy
+
+> I don’t just write code.
+> I build systems.
