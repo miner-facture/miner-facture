@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Y4Kd0hDJ/tdm-4k-enhanced.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/mCcDRhHt/tdm-4k-enhanced600.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Thiago DaMatta</h1>
