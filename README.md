@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://i.ibb.co/KjhJNQbt/Git.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/23knYC4w/front.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Thiago DaMatta</h1>
 
 <p align="center">
-  <strong>From code to circuits</strong>
 </p>
 
 🧠 About Me
@@ -41,7 +40,7 @@ KiCad • Git • Docker
 📺 IPTV / Streaming Systems
 🧠 Automation & Smart Systems
 🔗 Crypto & Blockchain Tools
-🔧 Hardware Prototypes
+🔧 Hardware Prototypes Asics - OgaihtMiner S87 - OgaihtMiner EmmaNode - OgaihtMiner MBDaMata - OgaihtMiner CetCernal_Plus - LaraMiner A3x - Mara DoubleX
 
 ## 📊 GitHub Stats
 
